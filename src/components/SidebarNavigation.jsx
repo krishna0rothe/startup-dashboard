@@ -17,11 +17,11 @@ const SidebarNavigation = ({ role }) => {
     ];
   } else if (role === "startup") {
     menuItems = [
-      //{ text: "Dashboard", icon: <HomeIcon />, path: "/startup/home" },
-      //{ text: "Funding Requests", icon: <AssignmentIcon />, path: "/startup/funding" },
-      //{ text: "Mentorship", icon: <PeopleIcon />, path: "/startup/mentorship" },
-      //{ text: "IPR Management", icon: <BarChartIcon />, path: "/startup/ipr" },
-      { text: "Profile Settings", icon: <SettingsIcon />, path: "/startup/settings" }
+      { text: "Dashboard", icon: <HomeIcon />, path: "/startup-dashboard" },
+      { text: "Funding Requests", icon: <AssignmentIcon />, path: "/startup-dashboard/funding" },
+      { text: "Mentorship", icon: <PeopleIcon />, path: "/startup-dashboard/mentorship" },
+      { text: "IPR Management", icon: <BarChartIcon />, path: "/startup-dashboard/ipr" },
+      { text: "Profile Settings", icon: <SettingsIcon />, path: "/startup-dashboard/settings" }
     ];
   } else if (role === "mentor") {
     menuItems = [

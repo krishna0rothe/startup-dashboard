@@ -40,13 +40,13 @@ function App() {
           </Route>
 
           {/* Group all startup-related routes under MainLayout */}
-          <Route path="/startupkmvrf" element={<MainLayout />}>
+          <Route path="/startup-dashboard" element={<MainLayout />}>
             {/* Nested Routes for startup */}
-            <Route path="home vdrnlk" element={<StartupDashboard />} />
-            <Route path="fundmmvl;rming" element={<FundingRequestsPage />} />
-            <Route path="rkf" element={<IPRManagementPage />} />
-            <Route path="settmgrkings" element={<StartupSettingsPage />} />
-            <Route path="menvrkktorship" element={<StartupMentorshipPage />} />
+            <Route path="home" element={<StartupDashboard />} />
+            <Route path="funding" element={<FundingRequestsPage />} />
+            <Route path="ipr" element={<IPRManagementPage />} />
+            <Route path="settings" element={<StartupSettingsPage />} />
+            <Route path="mentorship" element={<StartupMentorshipPage />} />
             {/* Add your startup-specific pages here */}
           </Route>
 
