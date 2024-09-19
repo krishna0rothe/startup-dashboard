@@ -42,6 +42,7 @@ function App() {
           {/* Group all startup-related routes under MainLayout */}
           <Route path="/startup-dashboard" element={<MainLayout />}>
             {/* Nested Routes for startup */}
+            <Route index element={<StartupDashboard />} />
             <Route path="home" element={<StartupDashboard />} />
             <Route path="funding" element={<FundingRequestsPage />} />
             <Route path="ipr" element={<IPRManagementPage />} />
