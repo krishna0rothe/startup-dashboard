@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/startup-dashboard/static/css/main.cf890fdb.css",
+    "main.js": "/startup-dashboard/static/js/main.22457569.js",
+    "static/js/453.48fa3331.chunk.js": "/startup-dashboard/static/js/453.48fa3331.chunk.js",
+    "static/media/dhruvin.png": "/startup-dashboard/static/media/dhruvin.2007897df0f3a26c5faf.png",
+    "static/media/diya.png": "/startup-dashboard/static/media/diya.bd95beae276d24e5f936.png",
+    "static/media/krushna4.png": "/startup-dashboard/static/media/krushna4.7ca34051547ecb3fa4f9.png",
+    "static/media/Harshit.jpg": "/startup-dashboard/static/media/Harshit.26dbb41bef7c5b1675a7.jpg",
+    "static/media/poonam_mam.jpg": "/startup-dashboard/static/media/poonam_mam.46a366d25b9a32e18b2b.jpg",
+    "static/media/gov.png": "/startup-dashboard/static/media/gov.62df4daadac84c353d78.png",
+    "static/media/amita_mam.jpg": "/startup-dashboard/static/media/amita_mam.5a3ae89cdbf81fed7003.jpg",
+    "static/media/ayush.jpg": "/startup-dashboard/static/media/ayush.7a26ceca0024c27f943d.jpg",
+    "static/media/startup.png": "/startup-dashboard/static/media/startup.3a773693e8e91c5cdd68.png",
+    "index.html": "/startup-dashboard/index.html",
+    "static/media/twitter.svg": "/startup-dashboard/static/media/twitter.410a9d14144a810542330f7d951ff2cf.svg",
+    "static/media/linkedin.svg": "/startup-dashboard/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
+    "static/media/facebook.svg": "/startup-dashboard/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
+    "main.cf890fdb.css.map": "/startup-dashboard/static/css/main.cf890fdb.css.map",
+    "main.22457569.js.map": "/startup-dashboard/static/js/main.22457569.js.map",
+    "453.48fa3331.chunk.js.map": "/startup-dashboard/static/js/453.48fa3331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.22457569.js"
+  ]
+}
